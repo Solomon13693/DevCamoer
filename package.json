@@ -4,10 +4,9 @@
   "description": "Bootcamp api, for course, reviews, users and more",
   "main": "index.js",
   "engines": {
-    "node": "16.x"
+    "node": "18"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "author": "Adeoye solomon (Software Enginner)",
